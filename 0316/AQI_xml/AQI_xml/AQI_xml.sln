@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AQI_xml", "AQI_xml\AQI_xml.csproj", "{6A11C585-FC6A-47E1-8CB7-ACD94CEB120D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A11C585-FC6A-47E1-8CB7-ACD94CEB120D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A11C585-FC6A-47E1-8CB7-ACD94CEB120D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A11C585-FC6A-47E1-8CB7-ACD94CEB120D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A11C585-FC6A-47E1-8CB7-ACD94CEB120D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7432B2ED-21E8-4A32-87AB-29883971C941}
+	EndGlobalSection
+EndGlobal
